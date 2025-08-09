@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Gidd-X/Gidd-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hi, I'm Gideon Akporido 👋
+## Hi, I'm Gideon Akporido 👋
 🚀 Data Solutions Specialist | 🛡️ Cybersecurity Professional  
 
 I specialize in building **data-driven solutions** and implementing **practical cybersecurity measures** for startups, businesses, and individuals.  
