@@ -14,14 +14,37 @@ My goal? To help organizations make smarter decisions while keeping their digita
 ---
 
 ## 🗂️ My Portfolios
-- 📊 [Data Solutions Portfolio](#) – Real-world analytics & visualization projects
-- 🔐 [Cybersecurity Portfolio](#) – Security tools, scripts, and training materials
+### 📊 Data Solutions
+- Data cleaning, analysis, and visualization
+- Predictive modeling & automation
+- Tools: Python, SQL, Tableau, Excel
+
+🔗 [View Data Solutions Portfolio](https://github.com/giddx-data-solutions)
+
+---
+
+### 🔐 Cybersecurity
+- Awareness training & secure tech audits
+- Penetration testing & vulnerability scanning
+- Python-based security scripts & automation
+
+🔗 [View Cybersecurity Portfolio](https://github.com/giddx-cybersec)
+
+---
+
+### 💻 Custom Software & Web Tools
+- Web-based dashboards & reporting tools
+- API integrations & data pipelines
+- Business automation scripts & utilities
+
+🔗 [View Software & Web Tools Portfolio](https://github.com/giddx-software-web-dev)
 
 ---
 
 ## 📜 Certifications
 - [Data Analyst Professional Certificate – DataCamp](https://www.datacamp.com/portfolio/akporidoakp)
-- Additional certificates: Python, SQL, Tableau, Cybersecurity Basics
+- Cisco-Certfied Ethical Hacker
+- Additional certificates: Python, SQL, Tableau
 
 ---
 
