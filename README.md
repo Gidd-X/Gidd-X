@@ -3,14 +3,34 @@
 <!--
 **Gidd-X/Gidd-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Gideon Akporido 👋
+🚀 Data Solutions Specialist | 🛡️ Cybersecurity Professional  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in building **data-driven solutions** and implementing **practical cybersecurity measures** for startups, businesses, and individuals.  
+My goal? To help organizations make smarter decisions while keeping their digital assets safe.
+
+---
+
+## 🔍 What I Do
+- **Data Solutions**: Data cleaning, analysis, visualization, and automation (Python, SQL, Tableau, Excel)
+- **Cybersecurity**: Awareness training, secure tech audits, penetration testing, and custom security scripts
+- **Training**: Guiding individuals & teams to become data and cyber-aware
+
+---
+
+## 🗂️ My Portfolios
+- 📊 [Data Solutions Portfolio](#) – Real-world analytics & visualization projects
+- 🔐 [Cybersecurity Portfolio](#) – Security tools, scripts, and training materials
+
+---
+
+## 📜 Certifications
+- [Data Analyst Professional Certificate – DataCamp](https://www.datacamp.com/portfolio/akporidoakp)
+- Additional certificates: Python, SQL, Tableau, Cybersecurity Basics
+
+---
+
+## 📫 Let's Connect
+- **Email:** giddxtechsolutions@gmail.com
+- **LinkedIn:** [linkedin.com/in/gideon-akporido](#)
+- **Website:** [GiddX Tech-Solutions](https://giddxtechsolutions.netlify.app/)
